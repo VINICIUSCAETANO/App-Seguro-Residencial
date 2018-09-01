@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Seguro Residencial</string>
+    <string name="imobiliaria">imobiliaria</string>
+    <string name="cliente">Cliente / Contato</string>
+    <string name="endereco">Endereço do Imóvel</string>
+    <string name="tipo_imovel">TIpo de Imóvel</string>
+    <string name="is_cliente">É Cliente</string>
+    <string name="avaliacao">Avaliação do Imóvel</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="novo">NOVO</string>
+    <string name="listar">LISTAR</string>
+    <string name="registrar">REGISTRAR INTERESSE</string>
+</resources>
